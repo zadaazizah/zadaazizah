@@ -1,15 +1,15 @@
-# Section 1.5 – Jenis-Jenis Jaringan Komputer
+# Section 1.1 – Pengertian Jaringan Komputer
 
-Jenis jaringan meliputi LAN, MAN, dan WAN berdasarkan luas cakupannya.
+Jaringan komputer adalah kumpulan komputer yang saling terhubung untuk berbagi data dan sumber daya.
 
-## Section 1.6 – Topologi Jaringan
+## Section 1.2 – Tujuan Jaringan Komputer
 
-Topologi jaringan adalah bentuk atau pola hubungan antar komputer seperti bus, star, ring, dan mesh.
+Tujuan jaringan komputer adalah mempermudah komunikasi dan berbagi informasi antar pengguna.
 
-## Section 1.7 – Perangkat Jaringan Komputer
+## Section 1.3 – Manfaat Jaringan Komputer
 
-Perangkat jaringan meliputi router, switch, hub, dan modem yang mengatur lalu lintas data.
+Jaringan komputer bermanfaat untuk meningkatkan efisiensi kerja dan mempercepat pertukaran data.
 
-## Section 1.8 – Protokol Jaringan
+## Section 1.4 – Komponen Utama Jaringan Komputer
 
-Protokol jaringan adalah aturan komunikasi seperti TCP/IP, HTTP, FTP, dan SMTP.
+Komponen jaringan meliputi komputer, media transmisi, perangkat jaringan, dan protokol komunikasi.
