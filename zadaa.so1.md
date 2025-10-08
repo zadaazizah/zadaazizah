@@ -12,4 +12,4 @@ Jaringan komputer bermanfaat untuk meningkatkan efisiensi kerja dan mempercepat 
 
 ## Section 1.4 – Komponen Utama Jaringan Komputer
 
-Komponen jaringan meliputi komputer, media transmisi, perangkat jaringan, dan protokol komunikasi.
+Komponen jaringan meliputi komputer, media transmisi, perangkat jaringan, dan protokol komunikasi.~
