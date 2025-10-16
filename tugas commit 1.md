@@ -29,3 +29,19 @@ Perangkat jaringan meliputi router, switch, hub, dan modem yang mengatur lalu li
 ## Section 1.8 – Protokol Jaringan
 
 Protokol jaringan adalah aturan komunikasi seperti TCP/IP, HTTP, FTP, dan SMTP.
+
+## Section 1.9 – Model Referensi OSI
+
+Model OSI terdiri dari tujuh lapisan yang mengatur proses komunikasi antar komputer.
+
+## Section 1.10 – IP Address
+
+IP address adalah alamat unik yang digunakan untuk mengenali perangkat dalam jaringan.
+
+## Section 1.11 – Keamanan Jaringan
+
+Keamanan jaringan bertujuan melindungi data dari ancaman melalui firewall, enkripsi, dan VPN.
+
+## Section 1.12 – Kesimpulan
+
+Jaringan komputer memudahkan komunikasi dan berbagi data secara cepat, efisien, dan aman.
